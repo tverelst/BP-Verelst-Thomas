@@ -1,0 +1,19 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Creeger}{2009}]{Creeger2009}
+Creeger, M. (2009).
+\newblock {CTO Roundtable: Cloud Computing}.
+\newblock {\em Communications of the ACM}, 52(8):50--56.
+
+\bibitem[\protect\astroncite{Knuth}{1998}]{Knuth1998}
+Knuth, D.~E. (1998).
+\newblock {\em The art of computer programming, volume 3: (2nd ed.) sorting and
+  searching}.
+\newblock Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, USA.
+
+\bibitem[\protect\astroncite{Pollefliet}{2011}]{Pollefliet2011}
+Pollefliet, L. (2011).
+\newblock {\em Schrijven van verslag tot eindwerk: do's en don'ts}.
+\newblock Academia Press, Gent.
+
+\end{thebibliography}

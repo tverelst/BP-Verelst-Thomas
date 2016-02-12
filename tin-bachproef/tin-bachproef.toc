@@ -1,0 +1,6 @@
+\select@language {dutch}
+\contentsline {chapter}{\numberline {1}Inleiding}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Probleemstelling en Onderzoeksvragen}{4}{section.1.1}
+\contentsline {chapter}{\numberline {2}Methodologie}{8}{chapter.2}
+\contentsline {chapter}{\numberline {3}Corpus}{10}{chapter.3}
+\contentsline {chapter}{\numberline {4}Conclusie}{20}{chapter.4}
