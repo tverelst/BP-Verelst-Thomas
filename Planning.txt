@@ -1,7 +1,7 @@
-1 maart -> Eerste draft inhoud af
-15 maart -> Algemeen hoofdstuk over AR af
-4 april -> afronden onderzoek naar concrete casussen & bestaand gebruik
-18 april -> deel concrete casussen & bestaand gebruik af
-2 mei -> deel toekomst AR af
-9 mei -> conclusie af
-15 mei -> klaar
+week 4 -> stuk algemeen AR af
+week 5 -> surveys rondbrengen & concrete casussen af
+week 6 -> surveys ophalen
+week 7 -> stuk software af
+week 9 -> analyse resultaten surveys af
+week 11 -> stuk onderzoek af
+week 13 -> BP af? (te optimistische planning?)
