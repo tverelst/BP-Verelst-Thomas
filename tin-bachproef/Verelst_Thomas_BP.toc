@@ -1,0 +1,75 @@
+\select@language {dutch}
+\contentsline {chapter}{\numberline {1}Inleiding}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Probleemstelling \& Onderzoeksvragen}{5}{section.1.1}
+\contentsline {chapter}{\numberline {2}Augmented Reality}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introductie}{7}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Definitie}{7}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}See-through en spatial Augmented Reality}{8}{subsection.2.1.2}
+\contentsline {paragraph}{Spatial AR}{8}{section*.3}
+\contentsline {paragraph}{See-through AR}{8}{section*.4}
+\contentsline {subsection}{\numberline {2.1.3}Virtual Reality}{9}{subsection.2.1.3}
+\contentsline {subsubsection}{Gelijkenissen}{9}{section*.5}
+\contentsline {subsubsection}{Verschillen}{9}{section*.6}
+\contentsline {subsection}{\numberline {2.1.4}Beknopte historiek}{9}{subsection.2.1.4}
+\contentsline {paragraph}{1968}{9}{section*.7}
+\contentsline {paragraph}{1992}{10}{section*.8}
+\contentsline {paragraph}{1999}{10}{section*.9}
+\contentsline {paragraph}{2008}{10}{section*.10}
+\contentsline {paragraph}{2013}{10}{section*.11}
+\contentsline {paragraph}{2016}{11}{section*.12}
+\contentsline {paragraph}{2016}{11}{section*.13}
+\contentsline {section}{\numberline {2.2}Werking Augmented Reality}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Tracking}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Beeld}{12}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Toepassingen Augmented Reality}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Google Glass}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Retail \& Advertenties}{14}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Tools en Applicaties}{14}{subsection.2.3.3}
+\contentsline {subsubsection}{ARToolkit}{14}{section*.14}
+\contentsline {subsubsection}{Layar}{15}{section*.15}
+\contentsline {subsubsection}{Augment}{15}{section*.16}
+\contentsline {chapter}{\numberline {3}Augmented Reality in onderwijs}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}ICT in het Vlaams onderwijs }{17}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Belang}{17}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Eindtermen ICT}{17}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Handhelds in het Vlaams onderwijs}{19}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Waarom Augmented Reality in onderwijs?}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Doelen}{19}{subsection.3.2.1}
+\contentsline {subsubsection}{Leren met 3D-perspectieven \& het onzichtbare tonen}{19}{section*.17}
+\contentsline {subsubsection}{Collaboratief en interactief leren}{20}{section*.18}
+\contentsline {subsection}{\numberline {3.2.2}Motivatie}{20}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Vaardigheden}{21}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Valkuilen}{21}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Concrete toepassingen}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Chemie}{22}{subsection.3.3.1}
+\contentsline {subsubsection}{Elements4d}{22}{section*.19}
+\contentsline {subsubsection}{Jonathan Newman}{22}{section*.20}
+\contentsline {subsection}{\numberline {3.3.2}Talen}{24}{subsection.3.3.2}
+\contentsline {subsubsection}{Explorez}{24}{section*.21}
+\contentsline {subsubsection}{ChineseCUBES}{24}{section*.22}
+\contentsline {subsection}{\numberline {3.3.3}Overkoepelende applicaties}{24}{subsection.3.3.3}
+\contentsline {subsubsection}{ARLearn}{24}{section*.23}
+\contentsline {subsubsection}{Quiver}{25}{section*.24}
+\contentsline {chapter}{\numberline {4}Case study}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Context}{26}{section.4.1}
+\contentsline {section}{\numberline {4.2}Methodologie}{26}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Voorbereiding}{26}{subsection.4.2.1}
+\contentsline {subsubsection}{Infrastructuur}{26}{section*.25}
+\contentsline {subsubsection}{Ervaring van de leerlingen met handhelds}{27}{section*.26}
+\contentsline {subsubsection}{Lesdoelen}{27}{section*.27}
+\contentsline {subsection}{\numberline {4.2.2}Lesvoorbereiding}{28}{subsection.4.2.2}
+\contentsline {subsubsection}{Algemeen}{28}{section*.28}
+\contentsline {subsubsection}{Groepsindeling}{28}{section*.29}
+\contentsline {subsubsection}{AR activiteit}{28}{section*.30}
+\contentsline {subsubsection}{3D modellen en afbeeldingen}{30}{section*.31}
+\contentsline {subsubsection}{Andere activiteiten}{30}{section*.32}
+\contentsline {subsubsection}{Software}{30}{section*.33}
+\contentsline {section}{\numberline {4.3}Bevindingen}{30}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Observaties}{31}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Reacties}{32}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Discussie}{33}{subsection.4.3.3}
+\contentsline {chapter}{\numberline {5}Conclusie}{35}{chapter.5}
+\contentsline {chapter}{Literatuur}{37}{chapter.5}
+\contentsline {chapter}{L"yst van figuren}{43}{chapter*.34}
+\contentsline {chapter}{L"yst van tabellen}{44}{chapter*.35}
+\contentsline {chapter}{Lijst van afkortingen}{45}{chapter*.37}

@@ -1,0 +1,627 @@
+% Encoding: UTF-8
+
+@Misc{android,
+  author = {Android},
+  title =  {The Android Story},
+  year =   {2016},
+  note =   {\url{https://www.android.com/history/#/} [Geraadpleegd op: 2016-03-30]}
+}
+
+@Article{aredu,
+  author =    {Wu, Hsin-Kai and Lee, Silvia Wen-Yu and Chang, Hsin-Yi and Liang, Jyh-Chong},
+  title =     {Current status, opportunities and challenges of augmented reality in education},
+  journal =   {Computers \& Education},
+  year =      {2013},
+  volume =    {62},
+  pages =     {41--49},
+  publisher = {Elsevier}
+}
+
+@Misc{arlearn,
+  author =  {{Open Universiteit}},
+  title =   {ARLearn},
+  year =    {2016},
+  note =    {\url{http://portal.ou.nl/web/arlearn} [Geraadpleegd op: 2016-05-15]},
+  url =     {http://portal.ou.nl/web/arlearn},
+  urldate = {2016-05-15}
+}
+
+@Misc{artoolkit,
+  author = {ARToolKit},
+  title =  {About},
+  year =   {2016},
+  note =   {\url{http://artoolkit.org/about-artoolkit} [Geraadpleegd op: 2016-04-03]}
+}
+
+@Misc{augmentchemie,
+  author = {{Augment}},
+  title =  {Bringing Science to Life with Augmented Reality},
+  year =   {2016},
+  note =   {\url{http://www.augment.com/blog/science-education-with-augmented-reality/} [Geraadpleegd op: 2016-05-13]}
+}
+
+@Misc{augmentData,
+  author =  {{Augment}},
+  title =   {Work at Augment},
+  year =    {2016},
+  note =    {\url{https://angel.co/augment/jobs} [Geraadpleegd op: 2016-05-12]},
+  url =     {https://angel.co/augment/jobs},
+  urldate = {2016-05-12}
+}
+
+@Misc{augmentFoto,
+  author =  {{Augment}},
+  title =   {Augment Reality for Coca Cola},
+  year =    {2016},
+  note =    {\url{http://www.augment.com/portfolio-items/coca-cola/} [Geraadpleegd op: 2016-05-12]},
+  url =     {http://www.augment.com/portfolio-items/coca-cola/},
+  urldate = {2016-05-12}
+}
+
+@Misc{besluitEindtermen,
+  author =  {{Vlaamse overheid}},
+  title =   {ICT Ondersteuning: Competenties},
+  year =    {2007},
+  note =    {\url{http://www.ond.vlaanderen.be/ict/ondersteuning/ondersteuning-competenties/} [Geraadpleegd op: 2016-05-10]},
+  url =     {http://www.ond.vlaanderen.be/ict/ondersteuning/ondersteuning-competenties/},
+  urldate = {2016-05-10}
+}
+
+@MastersThesis{bettina,
+  author = {Bettina Boydens},
+  title =  {De integratie van tabletcomputers in het secundair onderwijs in Vlaanderen: een onderzoek naar de adoptiedeterminanten bij leerlingen en leerkrachten op basis van de (decomposed) theory of planned behavior.},
+  school = {Universiteit Gent},
+  year =   {2013}
+}
+
+@Article{billinghurst2001magicbook,
+  author =    {Billinghurst, Mark and Kato, Hirokazu and Poupyrev, Ivan},
+  title =     {The MagicBook: a transitional AR interface},
+  journal =   {Computers \& Graphics},
+  year =      {2001},
+  volume =    {25},
+  number =    {5},
+  pages =     {745--753},
+  publisher = {Elsevier}
+}
+
+@Misc{blippar,
+  author =  {Ishbel Macleod},
+  title =   {Blippar acquires Layar to make largest AR userbase},
+  year =    {2014},
+  note =    {\url{http://www.thedrum.com/news/2014/06/19/blippar-acquires-layar-make-largest-ar-userbase-0} [Geraadpleegd op: 2016-05-12]},
+  url =     {http://www.thedrum.com/news/2014/06/19/blippar-acquires-layar-make-largest-ar-userbase-0},
+  urldate = {2016-05-12}
+}
+
+@Article{chen2011use,
+  author =    {Chen, Yi-Chen and Chi, Hung-Lin and Hung, Wei-Han and Kang, Shih-Chung},
+  title =     {Use of tangible and augmented reality models in engineering graphics courses},
+  journal =   {Journal of Professional Issues in Engineering Education \& Practice},
+  year =      {2011},
+  volume =    {137},
+  number =    {4},
+  pages =     {267--276},
+  publisher = {American Society of Civil Engineers}
+}
+
+@Misc{chinesecubes,
+  author =  {{CrunchBase}},
+  title =   {ChinesCubes},
+  year =    {2016},
+  note =    {\url{https://www.crunchbase.com/organization/chinesecubes#/entity} [Geraadpleegd op: 2016-05-14]},
+  url =     {https://www.crunchbase.com/organization/chinesecubes#/entity},
+  urldate = {2016-05-14}
+}
+
+@Misc{chinesetwitter,
+  author =  {{Twitter}},
+  title =   {ChineseCUBES},
+  year =    {2016},
+  note =    {\url{https://twitter.com/chinesecubes} [Geraadpleegd op: 2016-05-13]},
+  url =     {https://twitter.com/chinesecubes},
+  urldate = {2016-05-13}
+}
+
+@Article{choi2013strategic,
+  author =    {Choi, Jae Young and Shin, Jungwoo and Lee, Jongsu},
+  title =     {Strategic demand forecasts for the tablet PC market using the Bayesian mixed logit model and market share simulations},
+  journal =   {Behaviour \& Information Technology},
+  year =      {2013},
+  volume =    {32},
+  number =    {11},
+  pages =     {1177--1190},
+  publisher = {Taylor \& Francis}
+}
+
+@article{Creeger2009,
+  author = {Creeger, Mache},
+  journal = {Communications of the ACM},
+  number = {8},
+  pages = {50--56},
+  title = {{CTO Roundtable: Cloud Computing}},
+  volume = {52},
+  year = {2009}
+}
+
+@Article{cuomo2015augmented,
+  author =    {Cuomo, Maria Teresa and Ciasullo, Maria Vincenza and Tortora, Debora and Metallo, Gerardino},
+  title =     {AUGMENTED REALITY AND SHOPPING EXPERIENCE: IMPACTS ON CONSUMER BEHAVIOR},
+  journal =   {ISSN 2045-810X},
+  year =      {2015},
+  pages =     {45},
+  publisher = {Nelson Mandela Metropolitan University, South Africa}
+}
+
+@Article{deci1991motivation,
+  author =    {Deci, Edward L and Vallerand, Robert J and Pelletier, Luc G and Ryan, Richard M},
+  title =     {Motivation and education: The self-determination perspective},
+  journal =   {Educational psychologist},
+  year =      {1991},
+  volume =    {26},
+  number =    {3-4},
+  pages =     {325--346},
+  publisher = {Taylor \& Francis}
+}
+
+@MastersThesis{degrande,
+  author = {Maikel Degrande},
+  title =  {De toepassingen van Augmented Reality in conventionele media},
+  school = {Hogent},
+  year =   {2015},
+  type =   {Bachelor thesis}
+}
+
+@Article{di2013impact,
+  author =    {Di Serio, {\'A}ngela and Ib{\'a}{\~n}ez, Mar{\'\i}a Blanca and Kloos, Carlos Delgado},
+  title =     {Impact of an augmented reality system on students' motivation for a visual art course},
+  journal =   {Computers \& Education},
+  year =      {2013},
+  volume =    {68},
+  pages =     {586--596},
+  publisher = {Elsevier}
+}
+
+@Article{dunleavy2009affordances,
+  author =    {Dunleavy, Matt and Dede, Chris and Mitchell, Rebecca},
+  title =     {Affordances and limitations of immersive participatory augmented reality simulations for teaching and learning},
+  journal =   {Journal of Science Education and Technology},
+  year =      {2009},
+  volume =    {18},
+  number =    {1},
+  pages =     {7--22},
+  publisher = {Springer}
+}
+
+@Misc{edshelf,
+  author =  {{Edshelf}},
+  title =   {Find the right educational tools for you need},
+  year =    {2016},
+  note =    {\url{https://edshelf.com/} [Geraadpleegd op: 2016-05-14]},
+  url =     {https://edshelf.com/},
+  urldate = {2016-05-14}
+}
+
+@Misc{eduapps,
+  author =  {Mike Lee},
+  title =   {32 Augmented Reality Apps For The Classroom From Edshelf},
+  year =    {2013},
+  note =    {\url{http://www.teachthought.com/uncategorized/32-augmented-reality-apps-for-the-classroom-from-edshelf/} [Geraadpleegd op: 2016-05-13]},
+  url =     {http://www.teachthought.com/uncategorized/32-augmented-reality-apps-for-the-classroom-from-edshelf/},
+  urldate = {2016-04-20}
+}
+
+@Misc{eindtermen,
+  author =  {{Vlaamse overheid}},
+  title =   {Lager onderwijs - ICT - Algemeen},
+  year =    {2014},
+  note =    {\url{http://www.ond.vlaanderen.be/curriculum/basisonderwijs/lager-onderwijs/leergebiedoverschrijdend/ict/algemeen.htm} [Geraadpleegd op: 2016-05-10]},
+  url =     {http://www.ond.vlaanderen.be/curriculum/basisonderwijs/lager-onderwijs/leergebiedoverschrijdend/ict/algemeen.htm},
+  urldate = {2016-05-10}
+}
+
+@Misc{elements4d,
+  author =  {{Daqri}},
+  title =   {Augmented Reality Chemistry},
+  year =    {2016},
+  note =    {\url{http://elements4d.daqri.com/#lessons} [Geraadpleegd op: 2016-05-13]},
+  url =     {http://elements4d.daqri.com/#lessons},
+  urldate = {2016-05-13}
+}
+
+@Misc{ggannounce,
+  author =  {Trefis Team},
+  title =   {Google Glasses Sound As Crazy As Smartphones And Tablets Once Did},
+  year =    {2012},
+  note =    {\url{http://www.forbes.com/sites/greatspeculations/2012/04/05/google-glasses-sound-as-crazy-as-smartphones-and-tablets-once-did/} [Geraadpleegd op: 2016-05-02]},
+  url =     {http://www.forbes.com/sites/greatspeculations/2012/04/05/google-glasses-sound-as-crazy-as-smartphones-and-tablets-once-did/},
+  urldate = {2016-05-02}
+}
+
+@Misc{ggFail,
+  author =  {Bogdan Popa},
+  title =   {The history of Google Glass},
+  year =    {2015},
+  note =    {\url{http://news.softpedia.com/news/Google-Glass-Sales-Suspended-Because-of-Poor-Sales-470206.shtml} [Geraadpleegd op: 2016-05-02]},
+  url =     {http://news.softpedia.com/news/Google-Glass-Sales-Suspended-Because-of-Poor-Sales-470206.shtml},
+  urldate = {2016-05-02}
+}
+
+@Misc{ggFotoAan,
+  author =  {Scott Stein, Lindsey Turrentine},
+  title =   {Hands-on with Google Glass: Limited, fascinating, full of potential},
+  year =    {2013},
+  note =    {\url{http://www.cnet.com/products/google-glass/} [Geraadpleegd op: 2016-05-02]},
+  url =     {http://www.cnet.com/products/google-glass/},
+  urldate = {2016-05-02}
+}
+
+@Misc{ggFotoIn,
+  author =  {Alex Dierckman},
+  title =   {How Google Glass is Changing Health Care},
+  year =    {2014},
+  note =    {\url{http://indianapublicmedia.org/news/google-glass-indiana-operating-table-65264/} [Geraadpleegd op: 2016-05-02]},
+  url =     {http://indianapublicmedia.org/news/google-glass-indiana-operating-table-65264/},
+  urldate = {2016-05-02}
+}
+
+@Misc{ggHistory,
+  author =  {{Glass Almanac}},
+  title =   {The history of Google Glass},
+  year =    {2016},
+  note =    {\url{http://glassalmanac.com/history-google-glass/} [Geraadpleegd op: 2016-05-02]},
+  url =     {http://glassalmanac.com/history-google-glass/},
+  urldate = {2016-05-02}
+}
+
+@Misc{ggUses,
+  author =  {Khidr Suleman},
+  title =   {Google Glass: 10 use cases for wearable technology},
+  year =    {2014},
+  note =    {\url{http://www.itpro.co.uk/mobile/21581/google-glass-10-use-cases-for-wearable-technology} [Geraadpleegd op: 2016-05-02]},
+  url =     {http://www.itpro.co.uk/mobile/21581/google-glass-10-use-cases-for-wearable-technology},
+  urldate = {2016-05-02}
+}
+
+@Misc{GoogleTrans,
+  author =  {Barak Turovsky},
+  title =   {Hallo, hola, olá to the new, more powerful Google Translate app},
+  year =    {2015},
+  note =    {\url{https://search.googleblog.com/2015/01/hallo-hola-ola-to-new-more-powerful.html} [Geraadpleegd op: 2016-04-03]},
+  url =     {https://search.googleblog.com/2015/01/hallo-hola-ola-to-new-more-powerful.html},
+  urldate = {2016-04-03}
+}
+
+@Misc{history,
+  author =  {Dan Sung},
+  title =   {The history of augmented reality},
+  year =    {2011},
+  note =    {\url{http://www.pocket-lint.com/news/108888-the-history-of-augmented-reality} [Geraadpleegd op: 2016-03-31]},
+  url =     {http://www.pocket-lint.com/news/108888-the-history-of-augmented-reality},
+  urldate = {2016-03-31}
+}
+
+@Article{history2,
+  author =  {Arth, Clemens and Grasset, Raphael and Gruber, Lukas and Langlotz, Tobias and Mulloni, Alessandro and Wagner, Daniel},
+  title =   {The History of Mobile Augmented Reality},
+  journal = {arXiv preprint arXiv:1505.01319},
+  year =    {2015}
+}
+
+@Misc{htcsucces,
+  author =  {Ben Lang},
+  title =   {HTC Vive Orders Halted in U.S. “Due to Extraordinary Demand”},
+  year =    {2016},
+  note =    {\url{http://www.roadtovr.com/htc-vive-out-of-stock-us-orders-halted-united-states/} [Geraadpleegd op: 2016-05-01]},
+  url =     {http://www.roadtovr.com/htc-vive-out-of-stock-us-orders-halted-united-states/},
+  urldate = {2016-05-01}
+}
+
+@Misc{htcvive,
+  author =  {HTC},
+  title =   {HTC Vive},
+  year =    {2016},
+  note =    {\url{https://www.htcvive.com/eu/product/} [Geraadpleegd op: 2016-05-01]},
+  url =     {https://www.htcvive.com/eu/product/},
+  urldate = {2016-05-01}
+}
+
+@Misc{ikea,
+  author = {Paul Ridden},
+  title =  {IKEA catalog uses augmented reality to give a virtual preview of furniture in a room},
+  year =   {2013},
+  note =   {\url{http://www.gizmag.com/ikea-augmented-reality-catalog-app/28703/} [Geraadpleegd op: 2016-05-8]}
+}
+
+@Misc{iPad,
+  author = {Apple},
+  title =  {iPad Available in US on April 3},
+  year =   {2010},
+  note =   {\url{http://www.apple.com/pr/library/2010/03/05iPad-Available-in-US-on-April-3.html} [Geraadpleegd op: 2016-03-30]}
+}
+
+@Misc{ipadschool,
+  author =  {Maarten Huygen},
+  title =   {Werkt de iPadschool?},
+  year =    {2015},
+  note =    {\url{http://www.nrc.nl/handelsblad/2015/11/07/digitaal-is-geen-dogma-1553286} [Geraadpleegd op: 2016-03-30]},
+  url =     {http://www.nrc.nl/handelsblad/2015/11/07/digitaal-is-geen-dogma-1553286},
+  urldate = {2016-03-30}
+}
+
+@Misc{katholiek,
+  author =  {{Katholiek Onderwijs Vlaanderen}},
+  title =   {Leerplannen},
+  year =    {2016},
+  note =    {\url{http://leerplannen.vsko.be/leerplannen/app} [Geraadpleegd op: 2016-04-14]},
+  url =     {http://leerplannen.vsko.be/leerplannen/app},
+  urldate = {2016-04-14}
+}
+
+@Article{kerawalla2006,
+  author =    {Kerawalla, Lucinda and Luckin, Rosemary and Seljeflot, Simon and Woolard, Adrian},
+  title =     {“Making it real”: exploring the potential of augmented reality for teaching primary school science},
+  journal =   {Virtual Reality},
+  year =      {2006},
+  volume =    {10},
+  number =    {3-4},
+  pages =     {163--174},
+  publisher = {Springer}
+}
+
+@Article{kerawalla2006making,
+  author =    {Kerawalla, Lucinda and Luckin, Rosemary and Seljeflot, Simon and Woolard, Adrian},
+  title =     {“Making it real”: exploring the potential of augmented reality for teaching primary school science},
+  journal =   {Virtual Reality},
+  year =      {2006},
+  volume =    {10},
+  number =    {3-4},
+  pages =     {163--174},
+  publisher = {Springer}
+}@book{Knuth1998,
+ author = {Knuth, Donald E.},
+ title = {The art of computer programming,  volume 3: (2nd ed.) sorting and searching},
+ year = {1998},
+ publisher = {Addison Wesley Longman Publishing Co., Inc.},
+ address = {Redwood City, CA, USA}
+}
+
+@Misc{layarFoto,
+  author =  {{Layar}},
+  title =   {Best practices for creating good pages.},
+  year =    {2015},
+  note =    {\url{http://help.layar.com/hc/en-us/articles/203786249-Best -practices-for-creating-good-pages} [Geraadpleegd op: 2016-05-12]},
+  url =     {http://help.layar.com/hc/en-us/articles/203786249-Best
+-practices-for-creating-good-pages},
+  urldate = {2016-05-12}
+}
+
+@Misc{layarnumbers,
+  author =  {{Layar}},
+  title =   {Layar by the numbers},
+  year =    {2016},
+  note =    {\url{https://www.layar.com/features/} [Geraadpleegd op: 2016-05-12]},
+  url =     {https://www.layar.com/features/},
+  urldate = {2016-05-12}
+}
+
+@Misc{lego,
+  author =  {Craig Smith},
+  title =   {Augmented reality in Lego stores},
+  year =    {2015},
+  note =    {\url{http://retail-innovation.com/augmented-reality-in-lego-stores/} [Geraadpleegd op: 2016-05-03]},
+  url =     {http://retail-innovation.com/augmented-reality-in-lego-stores/},
+  urldate = {2016-05-03}
+}
+
+@Misc{legoFoto,
+  author =  {Florence Legrand},
+  title =   {MWC 2013 : la réalité augmentée en pleine forme},
+  year =    {2013},
+  note =    {\url{http://www.lesnumeriques.com/telephone-portable/mwc-2013-realite-augmentee-en-pleine-forme-n28523.html} [Geraadpleegd op: 2016-05-03]},
+  url =     {http://www.lesnumeriques.com/telephone-portable/mwc-2013-realite-augmentee-en-pleine-forme-n28523.html},
+  urldate = {2016-05-03}
+}
+
+@Misc{mentira,
+  author =  {{Mentira}},
+  title =   {Mentira},
+  year =    {2015},
+  note =    {\url{http://www.mentira.org/} [Geraadpleegd op: 2016-05-03]},
+  url =     {http://www.mentira.org/},
+  urldate = {2016-05-15}
+}
+
+@Misc{Merriam,
+  author = {Merriam-Webster},
+  title =  {Augmented Reality},
+  year =   {2016},
+  note =   {\url{http://www.merriam-webster.com/dictionary/Augmented%20Reality} [Geraadpleegd op: 2016-04-02]}
+}
+
+@Book{mikado,
+  title =     {Mikado 2 Wereldoriëntatie: Gestrikt},
+  publisher = {Pelckmans},
+  year =      {2010},
+  author =    {Lieve Driesen and Petra Geraets and Anne Loodts and Tania Opdebeeck and Anton Vandenbosch and Merijn Vandromme}
+}
+
+@Misc{miku,
+  author =  {Al Donato},
+  title =   {Who the f*ck is hatsune miku?},
+  year =    {2014},
+  note =    {\url{http://www.theplaidzebra.com/who-the-fuck-is-hatsune-miku/} [Geraadpleegd op: 2016-04-20]},
+  url =     {http://www.theplaidzebra.com/who-the-fuck-is-hatsune-miku/},
+  urldate = {2016-04-20}
+}
+
+@InProceedings{milgram1995augmented,
+  author =       {Milgram, Paul and Takemura, Haruo and Utsumi, Akira and Kishino, Fumio},
+  title =        {Augmented reality: A class of displays on the reality-virtuality continuum},
+  booktitle =    {Photonics for industrial applications},
+  year =         {1995},
+  pages =        {282--292},
+  organization = {International Society for Optics and Photonics}
+}
+
+@Misc{oculus,
+  author =  {Oculus},
+  title =   {Oculus Rift},
+  year =    {2016},
+  note =    {\url{https://www.oculus.com/en-us/blog/oculus-rift-pre-orders-now-open-first-shipments-march-28/} [Geraadpleegd op: 2016-05-01]},
+  url =     {https://www.oculus.com/en-us/blog/oculus-rift-pre-orders-now-open-first-shipments-march-28/},
+  urldate = {2016-05-01}
+}
+
+@Article{perry2015gamifying,
+  author =    {Perry, Bernadette},
+  title =     {Gamifying French Language Learning: A Case Study Examining a Quest-based, Augmented Reality Mobile Learning-tool},
+  journal =   {Procedia-Social and Behavioral Sciences},
+  year =      {2015},
+  volume =    {174},
+  pages =     {2308--2315},
+  publisher = {Elsevier}
+}
+
+@book{Pollefliet2011,
+  author = {Pollefliet, Leen},
+  title = {Schrijven van verslag tot eindwerk: do's en don'ts},
+  year = {2011},
+  publisher = {Academia Press},
+  address = {Gent}
+}
+
+@Misc{quiver,
+  author =  {{Quiver}},
+  title =   {Quiver},
+  year =    {2016},
+  note =    {\url{http://quivervision.com/} [Geraadpleegd op: 2016-05-13]},
+  url =     {http://quivervision.com/},
+  urldate = {2016-05-13}
+}
+
+@InProceedings{rosenberg,
+  author =       {Rosenberg, Louis B},
+  title =        {Virtual fixtures: Perceptual tools for telerobotic manipulation},
+  booktitle =    {Virtual Reality Annual International Symposium, 1993., 1993 IEEE},
+  year =         {1993},
+  pages =        {76--82},
+  organization = {IEEE}
+}
+
+@Misc{smartpop,
+  author =  {Lulu Chang},
+  title =   {Smartphone usage soars in US as other devices’ popularity declines},
+  year =    {2015},
+  note =    {\url{http://www.digitaltrends.com/mobile/us-smartphone-usage-soars/} [Geraadpleegd op: 2016-03-30]},
+  url =     {http://www.digitaltrends.com/mobile/us-smartphone-usage-soars/},
+  urldate = {2016-03-30}
+}
+
+@Misc{Snapchat,
+  author =  {Mark Racette},
+  title =   {Snapchat"s Future Lies in Augmented Reality},
+  year =    {2015},
+  note =    {\url{https://medium.com/@markracette/snapchat-s-future-lies-in-augmented-reality-afbfe1834e7a#.eahkxy5t2} [Geraadpleegd op: 2016-04-03]},
+  url =     {https://medium.com/@markracette/snapchat-s-future-lies-in-augmented-reality-afbfe1834e7a#.eahkxy5t2},
+  urldate = {2016-04-03}
+}
+
+@Article{solak2015exploring,
+  author =  {Solak, Ekrem and {\c{C}}ak{\i}r, E},
+  title =   {Exploring the effect of materials designed with augmented reality on language learners' vocabulary learning},
+  journal = {Journal of Educators Online},
+  year =    {2015},
+  volume =  {12},
+  number =  {2}
+}
+
+@Article{squire2007augmented,
+  author =    {Squire, Kurt and Klopfer, Eric},
+  title =     {Augmented reality simulations on handheld computers},
+  journal =   {The journal of the learning sciences},
+  year =      {2007},
+  volume =    {16},
+  number =    {3},
+  pages =     {371--413},
+  publisher = {Taylor \& Francis}
+}
+
+@Misc{summit,
+  author =  {{Unity}},
+  title =   {Vision Summit 2016},
+  year =    {2016},
+  note =    {\url{http://visionsummit2016.com/} [Geraadpleegd op: 2016-05-14]},
+  url =     {http://visionsummit2016.com/},
+  urldate = {2016-05-14}
+}
+
+@Misc{tablets,
+  author =  {Stijn Demeester},
+  title =   {Smartphone en tablet steeds meer ingeburgerd bij Vlaamse gezinnen},
+  year =    {2014},
+  note =    {\url{https://medium.com/@markracette/snapchat-s-future-lies-in-augmented-reality-afbfe1834e7a#.eahkxy5t2} [Geraadpleegd op: 2016-03-30]},
+  url =     {https://medium.com/@markracette/snapchat-s-future-lies-in-augmented-reality-afbfe1834e7a#.eahkxy5t2},
+  urldate = {2016-03-30}
+}
+
+@MastersThesis{tabletsOnderwijs,
+  author = {Stef Van Gorp},
+  title =  {Tablets in het onderwijs},
+  school = {Thomas More},
+  year =   {2013},
+  type =   {Bachelor thesis}
+}
+
+@Article{theall1999have,
+  author =    {Theall, Michael and Franklin, Jennifer},
+  title =     {What have we learned? A synthesis and some guidelines for effective motivation in higher education},
+  journal =   {New directions for teaching and learning},
+  year =      {1999},
+  volume =    {1999},
+  number =    {78},
+  pages =     {97--109},
+  publisher = {Wiley Online Library}
+}
+
+@Article{tondeur2007curricula,
+  author =    {Tondeur, Jo and Van Braak, Johan and Valcke, Martin},
+  title =     {Curricula and the use of ICT in education: Two worlds apart?},
+  journal =   {British Journal of Educational Technology},
+  year =      {2007},
+  volume =    {38},
+  number =    {6},
+  pages =     {962--976},
+  publisher = {Wiley Online Library}
+}
+
+@Misc{webshops,
+  author =  {Robin Wauters},
+  title =   {Forrester: Online Retail Industry In The US Will Be Worth 279 Billion In 2015},
+  year =    {2011},
+  note =    {\url{http://techcrunch.com/2011/02/28/forrester-online-retail-industry-in-the-us-will-be-worth-279- billion-/} [Geraadpleegd op: 2016-03-30]},
+  url =     {http://techcrunch.com/2011/02/28/forrester-online-retail-industry-in-the-us-will-be-worth-279-billion-in-2015/},
+  urldate = {2016-05-08}
+}
+
+@Article{wu2001promoting,
+  author =    {Wu, Hsin-Kai and Krajcik, Joseph S and Soloway, Elliot},
+  title =     {Promoting understanding of chemical representations: Students' use of a visualization tool in the classroom},
+  journal =   {Journal of research in science teaching},
+  year =      {2001},
+  volume =    {38},
+  number =    {7},
+  pages =     {821--842},
+  publisher = {Wiley Online Library}
+}
+
+@Article{yuen2011augmented,
+  author =  {Yuen, S and Yaoyuneyong, Gallayanee and Johnson, Erik},
+  title =   {Augmented reality: An overview and five directions for AR in education},
+  journal = {Journal of Educational Technology Development and Exchange},
+  year =    {2011},
+  volume =  {4},
+  number =  {1},
+  pages =   {119--140}
+}
+

@@ -1,0 +1,18 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{AR}]\begingroup Augmented Reality\nomeqref {5.0}
+		\nompageref{45}
+  \item [{FPS}]\begingroup Frames per seconde\nomeqref {5.0}
+		\nompageref{45}
+  \item [{ICT}]\begingroup Informatie en communicatie technologie\nomeqref {5.0}
+		\nompageref{45}
+  \item [{IMMS}]\begingroup Instructional materials motivation survey\nomeqref {5.0}
+		\nompageref{45}
+  \item [{QR}]\begingroup Quick response\nomeqref {5.0}\nompageref{45}
+  \item [{SDK}]\begingroup Software development kit\nomeqref {5.0}
+		\nompageref{45}
+  \item [{VR}]\begingroup Virtual Reality\nomeqref {5.0}\nompageref{45}
+
+\end{thenomenclature}

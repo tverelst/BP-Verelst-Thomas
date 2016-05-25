@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.15)  12 FEB 2016 11:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.15)  14 MAY 2016 09:49
 entering extended mode
 **tin-bachproef.tex
-(D:\Hogent\BP\tin-bachproef\tin-bachproef.tex
+(D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -733,8 +733,7 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 ("D:\Program Files\MikTex\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count125
-)
-No file tin-bachproef.aux.
+) (D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
 LaTeX Font Info:    ... okay on input line 118.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
@@ -819,6 +818,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 118.
 LaTeX Info: Redefining \pageref on input line 118.
 LaTeX Info: Redefining \nameref on input line 118.
+
+(D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.out)
+(D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.out)
 \@outlinefile=\write3
 \c@lstlisting=\count133
 *geometry* verbose mode - [ newgeometry ] result:
@@ -857,7 +859,7 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 128.
  ("D:\Program Files\MikTex\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<img/HG-beeldmerk-woordmerk.png, id=3, 557.2017pt x 611.4042pt>
+<img/HG-beeldmerk-woordmerk.png, id=23, 557.2017pt x 611.4042pt>
 File: img/HG-beeldmerk-woordmerk.png Graphic file (type png)
  <use img/HG-beeldmerk-woordmerk.png>
 Package pdftex.def Info: img/HG-beeldmerk-woordmerk.png used on input line 129.
@@ -865,7 +867,9 @@ Package pdftex.def Info: img/HG-beeldmerk-woordmerk.png used on input line 129.
  [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Hogent/BP/tin-bachproef/img/HG-beeldmerk-woordmerk.png>] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Hogent/BP/BP-Verelst-Thomas/tin-bachproef/img/HG-beeldmerk-woor
+dmerk.png>]
+[2
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -918,7 +922,40 @@ l.184 \end{abstract}
 l.192 \tableofcontents
                        [2
 
-]
+] (D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3.
+
+("D:\Program Files\MikTex\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 3.
+ ("D:\Program Files\MikTex\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 3.
+
+("D:\Program Files\MikTex\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 3.
+ ("D:\Program Files\MikTex\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 3.
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+("D:\Program Files\MikTex\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+ ("D:\Program Files\MikTex\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
  [3
 
@@ -927,40 +964,7 @@ Hoofdstuk 1.
 
 Package natbib Warning: Citation `Pollefliet2011' on page 4 undefined on input line 202.
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 204.
-("D:\Program Files\MikTex\tex\latex\lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 204.
- ("D:\Program Files\MikTex\tex\latex\lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 204.
-
-("D:\Program Files\MikTex\tex\latex\lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 204.
- ("D:\Program Files\MikTex\tex\latex\lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 204.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 204.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 204.
-LaTeX Font Info:    Try loading font information for U+msa on input line 204.
-
-("D:\Program Files\MikTex\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 204.
- ("D:\Program Files\MikTex\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 204.
-
 ("D:\Program Files\MikTex\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1021,56 +1025,56 @@ Underfull \vbox (badness 1275) has occurred while \output is active []
 Hoofdstuk 4.
 [20
 
-]
-No file tin-bachproef.bbl.
-[21]
-\tf@lof=\write5
- [22
+] (D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.bbl [21]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 6.
+) [22
 
 ]
+(D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.lof)
+\tf@lof=\write5
+ [23
+
+]
+(D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.lot)
 \tf@lot=\write6
 
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 252.
-[23
+[24
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 252.
- (D:\Hogent\BP\tin-bachproef\tin-bachproef.aux)
+ (D:\Hogent\BP\BP-Verelst-Thomas\tin-bachproef\tin-bachproef.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 252.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 252.
-
-
-Package rerunfilecheck Warning: File `tin-bachproef.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `tin-bachproef.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  86A74E1396C3D2DA15E820E00C356FE0;263.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `tin-bachproef.out' has not changed.
+(rerunfilecheck)             Checksum: 86A74E1396C3D2DA15E820E00C356FE0;263.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 252.
  ) 
 Here is how much of TeX's memory you used:
- 9843 strings out of 493921
- 136420 string characters out of 3148883
- 322069 words of memory out of 3000000
- 12939 multiletter control sequences out of 15000+200000
+ 9876 strings out of 493921
+ 137664 string characters out of 3148883
+ 322389 words of memory out of 3000000
+ 12953 multiletter control sequences out of 15000+200000
  42530 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 70i,12n,43p,596b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 70i,12n,43p,547b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Program Files/MikTex/fonts/enc/dvips/lm/lm-ec.enc}{D:/Program Files/MikTex/fonts/enc/dvips/lm/lm-mathsy.enc}<D:/Pr
 ogram Files/MikTex/fonts/type1/public/lm/lmr12.pfb><D:/Program Files/MikTex/fonts/type1/public/lm/lmss12.pfb><D:/Program
  Files/MikTex/fonts/type1/public/lm/lmss8.pfb><D:/Program Files/MikTex/fonts/type1/public/lm/lmssbx10.pfb><D:/Program Fi
 les/MikTex/fonts/type1/public/lm/lmsso12.pfb><D:/Program Files/MikTex/fonts/type1/public/lm/lmsy10.pfb><D:/Program Files
 /MikTex/fonts/type1/public/lm/lmtt12.pfb>
-Output written on tin-bachproef.pdf (26 pages, 255432 bytes).
+Output written on tin-bachproef.pdf (27 pages, 267909 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 193 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

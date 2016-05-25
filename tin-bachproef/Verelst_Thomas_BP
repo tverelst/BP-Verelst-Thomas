@@ -1,0 +1,90 @@
+% Encoding: UTF-8
+
+@Misc{artoolkit,
+  author =  {AR ARToolKit},
+  title =   {About},
+  year =    {2016},
+  url =     {http://artoolkit.org/about-artoolkit},
+  urldate = {2016-04-03}
+}
+
+@article{Creeger2009,
+  author = {Creeger, Mache},
+  journal = {Communications of the ACM},
+  number = {8},
+  pages = {50--56},
+  title = {{CTO Roundtable: Cloud Computing}},
+  volume = {52},
+  year = {2009}
+}
+
+@Misc{GoogleTrans,
+  author =  {Barak Turovsky},
+  title =   {Hallo, hola, olá to the new, more powerful Google Translate app},
+  year =    {2015},
+  url =     {https://search.googleblog.com/2015/01/hallo-hola-ola-to-new-more-powerful.html},
+  urldate = {2016-04-03}
+}
+
+@Misc{history,
+  author =  {Dan Sung},
+  title =   {The history of augmented reality},
+  year =    {2011},
+  url =     {http://www.pocket-lint.com/news/108888-the-history-of-augmented-reality},
+  urldate = {2016-03-31}
+}
+
+@Article{history2,
+  author =  {Arth, Clemens and Grasset, Raphael and Gruber, Lukas and Langlotz, Tobias and Mulloni, Alessandro and Wagner, Daniel},
+  title =   {The History of Mobile Augmented Reality},
+  journal = {arXiv preprint arXiv:1505.01319},
+  year =    {2015}
+}@book{Knuth1998,
+ author = {Knuth, Donald E.},
+ title = {The art of computer programming,  volume 3: (2nd ed.) sorting and searching},
+ year = {1998},
+ publisher = {Addison Wesley Longman Publishing Co., Inc.},
+ address = {Redwood City, CA, USA}
+}
+
+@book{Pollefliet2011,
+  author = {Pollefliet, Leen},
+  title = {Schrijven van verslag tot eindwerk: do's en don'ts},
+  year = {2011},
+  publisher = {Academia Press},
+  address = {Gent}
+}
+
+@InProceedings{rosenberg,
+  author =       {Rosenberg, Louis B},
+  title =        {Virtual fixtures: Perceptual tools for telerobotic manipulation},
+  booktitle =    {Virtual Reality Annual International Symposium, 1993., 1993 IEEE},
+  year =         {1993},
+  pages =        {76--82},
+  organization = {IEEE}
+}
+
+@Misc{smartpop,
+  author =  {Anshul Srivastava},
+  title =   {2 Billion Smartphone Users By 2015 : 83% of Internet Usage From Mobiles [Study]},
+  year =    {2014},
+  url =     {http://dazeinfo.com/2014/01/23/smartphone-users-growth-mobile-internet-2014-2017/},
+  urldate = {2016-04-05}
+}
+
+@Misc{Snapchat,
+  author =  {Mark Racette},
+  title =   {Snapchat"s Future Lies in Augmented Reality},
+  year =    {2015},
+  url =     {https://medium.com/@markracette/snapchat-s-future-lies-in-augmented-reality-afbfe1834e7a#.eahkxy5t2},
+  urldate = {2016-04-03}
+}
+
+@Misc{tablets,
+  author =  {Stijn Demeester},
+  title =   {Smartphone en tablet steeds meer ingeburgerd bij Vlaamse gezinnen},
+  year =    {2014},
+  url =     {https://medium.com/@markracette/snapchat-s-future-lies-in-augmented-reality-afbfe1834e7a#.eahkxy5t2},
+  urldate = {2016-03-30}
+}
+

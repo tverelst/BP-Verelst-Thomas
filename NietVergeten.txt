@@ -1,4 +1,0 @@
-construct3D
-ARSights
-ARMedia
-ARLearn
